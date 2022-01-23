@@ -1,4 +1,4 @@
-import {makeHairstyle, moveUser, UserType} from "./10/10";
+import {makeHairstyle, moveUser, UserType} from "./10";
 
 test('reference type test', () => {
     let user: UserType = {
